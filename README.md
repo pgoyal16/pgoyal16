@@ -19,6 +19,6 @@ Hi there, I'm Palak Goyal 👋
 - Exploring open-source contributions
 
 📫 Let's Connect
-Feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/palak-goyal16/) or check out my projects here on GitHub!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/palak-goyal16/) or check out my projects here on GitHub!
 
 Thanks for visiting my profile 😊
