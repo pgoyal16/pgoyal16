@@ -1,4 +1,5 @@
 Hi there, I'm Palak Goyal 👋
+
 🎓 I'm a Computer Science student, passionate about technology and problem solving.  
 🚀 I aspire to explore the world of **Artificial Intelligence** and **Machine Learning** in the future.
 
